@@ -1,0 +1,26 @@
+body {
+  background:peachpuff;
+  font-family: sans-serif;
+  margin: 10px;
+  display: inline-block;
+  font-size: 18px;
+}
+#pasta{
+    
+    background-color:rgb(99, 97, 97);
+    padding: 30px;
+    border: 5px solid rgb(223, 182, 130);
+    margin: 20px;
+}
+.kebab{
+    
+    background-color:rgb(99, 97, 97);
+    padding: 30px;
+    border: 5px solid rgb(223, 182, 130);
+    margin: 20px;
+}
+.odin{
+  margin: 10px;
+}
+    
+   
